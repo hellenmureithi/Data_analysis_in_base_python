@@ -1,0 +1,7 @@
+this a new file 
+this is the second line on the file 
+this a new file 
+this is the second line on the file 
+this a new file 
+this is the second line on the file 
+content added with with statement
