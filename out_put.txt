@@ -4,4 +4,7 @@ this a new file
 this is the second line on the file 
 this a new file 
 this is the second line on the file 
-content added with with statement
+content added with with statementthis a new file 
+this is the second line on the file 
+this is Hellen's file
+this is the third line of the textcontent added with with statement
